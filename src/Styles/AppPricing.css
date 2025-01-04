@@ -1,0 +1,20 @@
+.app-pricing-container{
+  height: 500px;
+  clip-path: polygon(100% 5%, 100% 25%, 100% 63%, 0 50%, 0 44%, 0 0);
+  background-color: rgb(145, 208, 240);
+}
+.app-pricing-card{
+  width: 20%;
+  height: 140px;
+  border-radius: 6px;
+  background-color: rgb(255, 252, 248);
+}
+.card-heading{
+  background-color: rgb(245, 230, 211);
+}
+.check-icons{
+  color: rgb(18, 214, 132);
+}
+.strike{
+  color: rgb(214, 41, 18);
+}
