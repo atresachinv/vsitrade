@@ -6,7 +6,7 @@ const AppPricising = () => {
     <div className="app-pricing-container w100 h1 d-flex-col py10 br">
       <div className="page-title-container w100 h10 d-flex center">
         <span className="page-heading f-heading">
-          MARKETING EMPLOYEE TRACKER PRICING
+          UPDATE MARKETING EMPLOYEE TRACKER PRICING
         </span>
       </div>
       <div className="app-pricing-div w100 h70 d-flex-col center sb">
